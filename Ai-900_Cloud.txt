@@ -1,0 +1,17 @@
+nuvem publica - pertencente a serviços de nuvem ou provedor de hosting
+fornece recursos e serviços a várias organizações e usuários 
+acessado via conexão de rede segura
+nenhuma despesa de capital
+as organizações pagam apenas pelo que usam
+
+nuvem privada - as organizações criam um ambiente em nuvem em seu datacenter
+a organização é responsável por operar os serviços que fornece
+não fornece acesso aos usuários fora da organização
+o hardware deve ser adquirido para inicialização e manutenção
+as organizações tem controle total sobre os recursos e segurança
+
+nuvem híbrida - combinas as duas nuvens para permitir que os aplicativos 
+sejam executados no local mais apropriado
+oferece maior flexibilidade
+as organizações determinam onde executar seus aplicativos 
+as organizações controlam os requisitos de segurança
